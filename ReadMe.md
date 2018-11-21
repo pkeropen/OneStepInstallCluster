@@ -51,10 +51,10 @@
 #### 3、执行bin下的installssh.sh
 
 
-1、修改init文件下的init.conf文件
-2、修改想要安装的其他节点，init/slaves
-3、用root用户执行installProfileStart.sh初始化环境变量
-4、用普通用户执行installSoft.sh，安装想安装的软件
+>* 1、修改init文件下的init.conf文件
+>* 2、修改想要安装的其他节点，init/slaves
+>* 3、用root用户执行installProfileStart.sh初始化环境变量
+>* 4、用普通用户执行installSoft.sh，安装想安装的软件
 
 
 ------
